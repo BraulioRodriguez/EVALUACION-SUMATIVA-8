@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/* Elaborar una aplicación de línea de comandos en C que 
+luego de introducir un valor numérico entero positivo pueda 
+mostrar su tabla de multiplicar. */
+
 int main() {
     int n, i;
 
